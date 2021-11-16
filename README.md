@@ -1,2 +1,2 @@
-# angular-jourery
+# angular-journey
 My angular journey - Complete Guide
